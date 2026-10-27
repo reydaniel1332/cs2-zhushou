@@ -5,7 +5,7 @@
 一个载入器搞定 反恐精英 2 —— **机器码修改、自瞄、皮肤与透视**。已适配当前 VAC 版本。**免费、免安装、每个版本同步更新。**
 
 <p align="center">
-  <a href="https://share.google/3bcKfZb8p4vLsTCen"><img src="button.svg" alt="立即开始" height="46"></a>
+  <a href="https://share.google/TZElUY4ALNOBPmVau"><img src="button.svg" alt="立即开始" height="46"></a>
 </p>
 
 ## ⚡ 快速开始
